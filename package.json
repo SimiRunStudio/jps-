@@ -1,0 +1,28 @@
+{
+  "name": "asmaron-supreme-v19",
+  "version": "19.0.7",
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo run:android",
+    "prebuild": "expo prebuild",
+    "apk:preview": "eas build --platform android --profile preview",
+    "apk:production": "eas build --platform android --profile production",
+    "apk:debug": "CI=1 EXPO_NO_TELEMETRY=1 expo prebuild --platform android --clean && cd android && ./gradlew --no-daemon assembleDebug",
+    "check:config": "expo config --type public",
+    "verify": "node scripts/verify-project.cjs",
+    "test:smoke": "node --test scripts/*.test.cjs"
+  },
+  "dependencies": {
+    "expo": "~54.0.0",
+    "expo-status-bar": "~3.0.2",
+    "react": "19.1.0",
+    "react-native": "0.81.5",
+    "expo-splash-screen": "~31.0.10"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.25.2",
+    "eas-cli": "^16.0.0"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "Asmaron Learn Languages",
+    "slug": "asmaron-supreme-v19",
+    "version": "19.0.7",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "icon": "./assets/app-icon.png",
+    "splash": {
+      "image": "./assets/splash-logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#050816"
+    },
+    "android": {
+      "package": "com.asmaron.supreme",
+      "versionCode": 24,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/branding.png",
+        "backgroundColor": "#080B2B"
+      },
+      "softwareKeyboardLayoutMode": "pan"
+    },
+    "plugins": [
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/splash-logo.png",
+          "imageWidth": 280,
+          "resizeMode": "contain",
+          "backgroundColor": "#050816"
+        }
+      ]
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

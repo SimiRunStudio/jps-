@@ -1,0 +1,1 @@
+v19.07 source preflight script project root, required PNG files, app.json ke image paths, Android package ID aur workflow ko verify karta hai. APK tabhi ready mani jayegi jab GitHub Actions build green ho aur device par install/test ho.

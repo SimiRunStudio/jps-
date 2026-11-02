@@ -1,0 +1,1 @@
+ZIP extract karein. Extracted folder ke andar ki sabhi files/folders (including hidden .github) ko GitHub repository ke root mein upload karein. Parent folder ko as a nested folder upload na karein. Commit karein, phir Actions se Build Asmaron Android APK run karein.

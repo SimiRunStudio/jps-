@@ -1,0 +1,1 @@
+Asmaron branding ko assets/branding.png, assets/app-icon.png aur assets/splash-logo.png mein rakha gaya hai. app.json ke icon, splash aur adaptive icon paths inhi root-relative files ko refer karte hain.

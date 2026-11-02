@@ -1,0 +1,1 @@
+GitHub par ZIP extract karke is folder ke andar ki saari files repository ke root mein upload karein. Hidden `.github` folder ko zaroor include karein. Actions → Build Asmaron Android APK → Run workflow. Successful run ke Artifacts section se APK download karein.

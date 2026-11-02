@@ -1,0 +1,357 @@
+Feature_ID,Category_Code,Category_Name,Feature_Description,Performance_Metric,Tier_Access,Target_Skill
+ASM-V19-001,AI_VOICE,WebRTC Full-Duplex AI Voice Call Engine,Sub-150ms WebRTC Speech-to-Speech Streaming,<130ms,Free,Grammar & Syntax
+ASM-V19-002,PHONEMICS,Acoustic Phoneme & Formant Analyzer,Dynamic Barge-In Interruption Support,<140ms,Plus,Vocabulary & Recall
+ASM-V19-003,PLACEMENT,Diagnostic Placement & Adaptive Learning,Acoustic Echo Cancellation,60 FPS / <50ms,Max,Multi-Subject & UI
+ASM-V19-004,SYNTAX,Explain My Answer Syntax Parser,Voice Activity Detection with Hesitation Pause Tolerance,60 FPS / <50ms,Free,Speaking & Listening
+ASM-V19-005,PRACTICE,Practice Hub & SM-2 Spaced Repetition,Emotion-Aware Voice Synthesis,60 FPS / <50ms,Plus,Grammar & Syntax
+ASM-V19-006,MULTIMODAL,Multimodal AR Camera Scanner,Real-Time Pitch Matching,60 FPS / <50ms,Max,Vocabulary & Recall
+ASM-V19-007,ROLEPLAY,Procedural Generative AI Roleplay,Multi-Session Conversational Memory,60 FPS / <50ms,Free,Multi-Subject & UI
+ASM-V19-008,GAMIFICATION,"Leagues, Quests & Tournament Engine",Soft Conversational Redirection,60 FPS / <50ms,Plus,Speaking & Listening
+ASM-V19-009,MULTISUBJECT,"Math, Music, Chess & DET Specialists",Speech Rate Auto-Deceleration,60 FPS / <50ms,Max,Grammar & Syntax
+ASM-V19-010,UI_UX_DESIGN,Ultra-Performance UI/UX Design System,"Multi-Accent Switching (US, UK, AU, ES, FR, DE)",60 FPS / <50ms,Free,Vocabulary & Recall
+ASM-V19-011,OFFLINE_CACHE,Offline-First SQLite Caching & Sync,Syllable-Level Pause Detection,60 FPS / <50ms,Plus,Multi-Subject & UI
+ASM-V19-012,SOCIAL_COMMUNITY,"Friends, Guilds & Social Feed",Dynamic Vocabulary Complexity Scaling,60 FPS / <50ms,Max,Speaking & Listening
+ASM-V19-013,ACCESSIBILITY,WCAG 2.1 AA & Adaptive Haptics,Neural Filler Word Filter,60 FPS / <50ms,Free,Grammar & Syntax
+ASM-V19-014,SECURITY_PRIVACY,Zero-Trust Encryption & COPPA Safety,Real-Time IPA Phonetic Transcription Overlay,60 FPS / <50ms,Plus,Vocabulary & Recall
+ASM-V19-015,ANALYTICS_BI,Predictive Learning Analytics & Heatmaps,Personal Interest Topic Steering,60 FPS / <50ms,Max,Multi-Subject & UI
+ASM-V19-016,ENTERPRISE_SCHOOLS,Duolingo for Schools & Corporate LMS,Context Vector Caching for Zero Latency,60 FPS / <50ms,Free,Speaking & Listening
+ASM-V19-017,AUDIO_MUSIC_ENGINE,Spatial Audio & Synthesizer Engine,Automated Grammar Confidence Scoring,60 FPS / <50ms,Plus,Grammar & Syntax
+ASM-V19-018,NOTIFICATIONS_CRON,Smart Push Notifications & Nudges,Instant Translation Fallback Option,60 FPS / <50ms,Max,Vocabulary & Recall
+ASM-V19-019,CONTENT_PIPELINE,Automated CEFR Curriculum Generator,Dynamic Roleplay Persona Morphing,60 FPS / <50ms,Free,Multi-Subject & UI
+ASM-V19-020,CREATOR_STUDIO,Community Lesson & Quest Builder,"Ambient Background Soundscapes (Cafe, Airport)",60 FPS / <50ms,Plus,Speaking & Listening
+ASM-V19-021,AI_VOICE,WebRTC Full-Duplex AI Voice Call Engine,Voice Pitch Contour Waveform Widget,<180ms,Max,Grammar & Syntax
+ASM-V19-022,PHONEMICS,Acoustic Phoneme & Formant Analyzer,Cadence Alignment Engine,<190ms,Free,Vocabulary & Recall
+ASM-V19-023,PLACEMENT,Diagnostic Placement & Adaptive Learning,Neural Prosody Evaluator,60 FPS / <50ms,Plus,Multi-Subject & UI
+ASM-V19-024,SYNTAX,Explain My Answer Syntax Parser,Phonetic Repetition Loops,60 FPS / <50ms,Max,Speaking & Listening
+ASM-V19-025,PRACTICE,Practice Hub & SM-2 Spaced Repetition,Code-Switching Detection (Hinglish/Spanglish),60 FPS / <50ms,Free,Grammar & Syntax
+ASM-V19-026,MULTIMODAL,Multimodal AR Camera Scanner,Automatic Phrase Simplification,60 FPS / <50ms,Plus,Vocabulary & Recall
+ASM-V19-027,ROLEPLAY,Procedural Generative AI Roleplay,Live Frequency Equalizer,60 FPS / <50ms,Max,Multi-Subject & UI
+ASM-V19-028,GAMIFICATION,"Leagues, Quests & Tournament Engine",Offline Speech Buffer,60 FPS / <50ms,Free,Speaking & Listening
+ASM-V19-029,MULTISUBJECT,"Math, Music, Chess & DET Specialists",Post-Call Fluency Radar Chart,60 FPS / <50ms,Plus,Grammar & Syntax
+ASM-V19-030,UI_UX_DESIGN,Ultra-Performance UI/UX Design System,Vocal Practice Action Plan Generator,60 FPS / <50ms,Max,Vocabulary & Recall
+ASM-V19-031,OFFLINE_CACHE,Offline-First SQLite Caching & Sync,Whisper-v3 ASR Engine Integration,60 FPS / <50ms,Free,Multi-Subject & UI
+ASM-V19-032,SOCIAL_COMMUNITY,"Friends, Guilds & Social Feed",Syllable-Level IPA Matching,60 FPS / <50ms,Plus,Speaking & Listening
+ASM-V19-033,ACCESSIBILITY,WCAG 2.1 AA & Adaptive Haptics,Formant Frequency (F1/F2) Spectral Analysis,60 FPS / <50ms,Max,Grammar & Syntax
+ASM-V19-034,SECURITY_PRIVACY,Zero-Trust Encryption & COPPA Safety,Visual Color-Coded Waveforms,60 FPS / <50ms,Free,Vocabulary & Recall
+ASM-V19-035,ANALYTICS_BI,Predictive Learning Analytics & Heatmaps,Vowel Duration Measurement,60 FPS / <50ms,Plus,Multi-Subject & UI
+ASM-V19-036,ENTERPRISE_SCHOOLS,Duolingo for Schools & Corporate LMS,Consonant Cluster Clarity Scoring,60 FPS / <50ms,Max,Speaking & Listening
+ASM-V19-037,AUDIO_MUSIC_ENGINE,Spatial Audio & Synthesizer Engine,Intonation Pattern Curve Overlay,60 FPS / <50ms,Free,Grammar & Syntax
+ASM-V19-038,NOTIFICATIONS_CRON,Smart Push Notifications & Nudges,Breath Control Evaluator,60 FPS / <50ms,Plus,Vocabulary & Recall
+ASM-V19-039,CONTENT_PIPELINE,Automated CEFR Curriculum Generator,High-Frequency Noise Isolation,60 FPS / <50ms,Max,Multi-Subject & UI
+ASM-V19-040,CREATOR_STUDIO,Community Lesson & Quest Builder,Tongue Placement Visual Guide Diagram,60 FPS / <50ms,Free,Speaking & Listening
+ASM-V19-041,AI_VOICE,WebRTC Full-Duplex AI Voice Call Engine,Dialect Variant Acceptance,<230ms,Plus,Grammar & Syntax
+ASM-V19-042,PHONEMICS,Acoustic Phoneme & Formant Analyzer,Automatic Mic Gain Control,<240ms,Max,Vocabulary & Recall
+ASM-V19-043,PLACEMENT,Diagnostic Placement & Adaptive Learning,Instant Playback Comparison,60 FPS / <50ms,Free,Multi-Subject & UI
+ASM-V19-044,SYNTAX,Explain My Answer Syntax Parser,Isolated Phoneme Drill Generator,60 FPS / <50ms,Plus,Speaking & Listening
+ASM-V19-045,PRACTICE,Practice Hub & SM-2 Spaced Repetition,Word-Level Stress Identifier,60 FPS / <50ms,Max,Grammar & Syntax
+ASM-V19-046,MULTIMODAL,Multimodal AR Camera Scanner,Nasalization Tone Detector,60 FPS / <50ms,Free,Vocabulary & Recall
+ASM-V19-047,ROLEPLAY,Procedural Generative AI Roleplay,Pitch Glide Tracker (Mandarin 4-Tone),60 FPS / <50ms,Plus,Multi-Subject & UI
+ASM-V19-048,GAMIFICATION,"Leagues, Quests & Tournament Engine",Trill & Flap 'R' Frequency Validator,60 FPS / <50ms,Max,Speaking & Listening
+ASM-V19-049,MULTISUBJECT,"Math, Music, Chess & DET Specialists",Glottal Stop Identifier,60 FPS / <50ms,Free,Grammar & Syntax
+ASM-V19-050,UI_UX_DESIGN,Ultra-Performance UI/UX Design System,"Syllable Speed Trainer (0.5x, 1.0x, 1.25x)",60 FPS / <50ms,Plus,Vocabulary & Recall
+ASM-V19-051,OFFLINE_CACHE,Offline-First SQLite Caching & Sync,Audio Snippet Exporter,60 FPS / <50ms,Max,Multi-Subject & UI
+ASM-V19-052,SOCIAL_COMMUNITY,"Friends, Guilds & Social Feed",Multi-Speaker Voice Profiling,60 FPS / <50ms,Free,Speaking & Listening
+ASM-V19-053,ACCESSIBILITY,WCAG 2.1 AA & Adaptive Haptics,Decibel Warning Alert,60 FPS / <50ms,Plus,Grammar & Syntax
+ASM-V19-054,SECURITY_PRIVACY,Zero-Trust Encryption & COPPA Safety,Ambient Noise Profiler,60 FPS / <50ms,Max,Vocabulary & Recall
+ASM-V19-055,ANALYTICS_BI,Predictive Learning Analytics & Heatmaps,Vocal Warmup Exercises Routine,60 FPS / <50ms,Free,Multi-Subject & UI
+ASM-V19-056,ENTERPRISE_SCHOOLS,Duolingo for Schools & Corporate LMS,10-Question Diagnostic Placement Test,60 FPS / <50ms,Plus,Speaking & Listening
+ASM-V19-057,AUDIO_MUSIC_ENGINE,Spatial Audio & Synthesizer Engine,CEFR Alignment Mapping (A1-B2),60 FPS / <50ms,Max,Grammar & Syntax
+ASM-V19-058,NOTIFICATIONS_CRON,Smart Push Notifications & Nudges,Auto-Skip Basic Pre-Known Units,60 FPS / <50ms,Free,Vocabulary & Recall
+ASM-V19-059,CONTENT_PIPELINE,Automated CEFR Curriculum Generator,Unlocked Unit Review Access,60 FPS / <50ms,Plus,Multi-Subject & UI
+ASM-V19-060,CREATOR_STUDIO,Community Lesson & Quest Builder,Item Response Theory (IRT) Adaptive Scaling,60 FPS / <50ms,Max,Speaking & Listening
+ASM-V19-061,AI_VOICE,WebRTC Full-Duplex AI Voice Call Engine,Partial Knowledge Gap Detection,<130ms,Free,Grammar & Syntax
+ASM-V19-062,PHONEMICS,Acoustic Phoneme & Formant Analyzer,Customized Learning Path Generator,<140ms,Plus,Vocabulary & Recall
+ASM-V19-063,PLACEMENT,Diagnostic Placement & Adaptive Learning,Native Language Interference Matrix,60 FPS / <50ms,Max,Multi-Subject & UI
+ASM-V19-064,SYNTAX,Explain My Answer Syntax Parser,Dynamic Milestone Recalculation,60 FPS / <50ms,Free,Speaking & Listening
+ASM-V19-065,PRACTICE,Practice Hub & SM-2 Spaced Repetition,Fast-Track Express Placement Challenge,60 FPS / <50ms,Plus,Grammar & Syntax
+ASM-V19-066,MULTIMODAL,Multimodal AR Camera Scanner,Cross-Language Transfer Recognition,60 FPS / <50ms,Max,Vocabulary & Recall
+ASM-V19-067,ROLEPLAY,Procedural Generative AI Roleplay,Retention Curve Predictor,60 FPS / <50ms,Free,Multi-Subject & UI
+ASM-V19-068,GAMIFICATION,"Leagues, Quests & Tournament Engine",Diagnostic Error Breakdown Report PDF,60 FPS / <50ms,Plus,Speaking & Listening
+ASM-V19-069,MULTISUBJECT,"Math, Music, Chess & DET Specialists",30-Day Retake Assessment,60 FPS / <50ms,Max,Grammar & Syntax
+ASM-V19-070,UI_UX_DESIGN,Ultra-Performance UI/UX Design System,Real-Time Skill Mastery Percentage Bar,60 FPS / <50ms,Free,Vocabulary & Recall
+ASM-V19-071,OFFLINE_CACHE,Offline-First SQLite Caching & Sync,Personalized Daily Goal Setting,60 FPS / <50ms,Plus,Multi-Subject & UI
+ASM-V19-072,SOCIAL_COMMUNITY,"Friends, Guilds & Social Feed",Question Randomization Matrix,60 FPS / <50ms,Max,Speaking & Listening
+ASM-V19-073,ACCESSIBILITY,WCAG 2.1 AA & Adaptive Haptics,Multi-Skill Weight Balancing,60 FPS / <50ms,Free,Grammar & Syntax
+ASM-V19-074,SECURITY_PRIVACY,Zero-Trust Encryption & COPPA Safety,Instant Level Certificate Generator,60 FPS / <50ms,Plus,Vocabulary & Recall
+ASM-V19-075,ANALYTICS_BI,Predictive Learning Analytics & Heatmaps,Global Benchmark Percentile Comparison,60 FPS / <50ms,Max,Multi-Subject & UI
+ASM-V19-076,ENTERPRISE_SCHOOLS,Duolingo for Schools & Corporate LMS,In-Lesson LLM Syntax Breakdown,60 FPS / <50ms,Free,Speaking & Listening
+ASM-V19-077,AUDIO_MUSIC_ENGINE,Spatial Audio & Synthesizer Engine,Native Tongue Grammar Explanation,60 FPS / <50ms,Plus,Grammar & Syntax
+ASM-V19-078,NOTIFICATIONS_CRON,Smart Push Notifications & Nudges,Contrastive Grammar Analysis,60 FPS / <50ms,Max,Vocabulary & Recall
+ASM-V19-079,CONTENT_PIPELINE,Automated CEFR Curriculum Generator,Interactive Sentence Tree Structural Layout,60 FPS / <50ms,Free,Multi-Subject & UI
+ASM-V19-080,CREATOR_STUDIO,Community Lesson & Quest Builder,Verb Tense Conjugation Popups,60 FPS / <50ms,Plus,Speaking & Listening
+ASM-V19-081,AI_VOICE,WebRTC Full-Duplex AI Voice Call Engine,Gender & Number Agreement Highlight,<180ms,Max,Grammar & Syntax
+ASM-V19-082,PHONEMICS,Acoustic Phoneme & Formant Analyzer,Preposition Visual Spatial Maps,<190ms,Free,Vocabulary & Recall
+ASM-V19-083,PLACEMENT,Diagnostic Placement & Adaptive Learning,False Friend Deceptive Cognate Warnings,60 FPS / <50ms,Plus,Multi-Subject & UI
+ASM-V19-084,SYNTAX,Explain My Answer Syntax Parser,Idiomatic Origin Context Notes,60 FPS / <50ms,Max,Speaking & Listening
+ASM-V19-085,PRACTICE,Practice Hub & SM-2 Spaced Repetition,Article Usage Rule Breakdown,60 FPS / <50ms,Free,Grammar & Syntax
+ASM-V19-086,MULTIMODAL,Multimodal AR Camera Scanner,Word Order Shift Explanations,60 FPS / <50ms,Plus,Vocabulary & Recall
+ASM-V19-087,ROLEPLAY,Procedural Generative AI Roleplay,Punctuation Impact Analysis,60 FPS / <50ms,Max,Multi-Subject & UI
+ASM-V19-088,GAMIFICATION,"Leagues, Quests & Tournament Engine",Register & Formality Check (Tu vs Vous),60 FPS / <50ms,Free,Speaking & Listening
+ASM-V19-089,MULTISUBJECT,"Math, Music, Chess & DET Specialists",Direct Practice Link inside Modal,60 FPS / <50ms,Plus,Grammar & Syntax
+ASM-V19-090,UI_UX_DESIGN,Ultra-Performance UI/UX Design System,Bookmark Error for Review,60 FPS / <50ms,Max,Vocabulary & Recall
+ASM-V19-091,OFFLINE_CACHE,Offline-First SQLite Caching & Sync,Alternative Valid Translations List,60 FPS / <50ms,Free,Multi-Subject & UI
+ASM-V19-092,SOCIAL_COMMUNITY,"Friends, Guilds & Social Feed",Part-of-Speech Color Tagger,60 FPS / <50ms,Plus,Speaking & Listening
+ASM-V19-093,ACCESSIBILITY,WCAG 2.1 AA & Adaptive Haptics,Semantic Nuance Differentiator,60 FPS / <50ms,Max,Grammar & Syntax
+ASM-V19-094,SECURITY_PRIVACY,Zero-Trust Encryption & COPPA Safety,Audio Rule Spoken Summary,60 FPS / <50ms,Free,Vocabulary & Recall
+ASM-V19-095,ANALYTICS_BI,Predictive Learning Analytics & Heatmaps,Interactive 'Fix the Sentence' Mini-Drill,60 FPS / <50ms,Plus,Multi-Subject & UI
+ASM-V19-096,ENTERPRISE_SCHOOLS,Duolingo for Schools & Corporate LMS,Free Universal Practice Hub,60 FPS / <50ms,Max,Speaking & Listening
+ASM-V19-097,AUDIO_MUSIC_ENGINE,Spatial Audio & Synthesizer Engine,Automated Past Mistakes Review,60 FPS / <50ms,Free,Grammar & Syntax
+ASM-V19-098,NOTIFICATIONS_CRON,Smart Push Notifications & Nudges,Neural SM-2 Memory Decay Curve,60 FPS / <50ms,Plus,Vocabulary & Recall
+ASM-V19-099,CONTENT_PIPELINE,Automated CEFR Curriculum Generator,Dynamic Flashcard Scheduling,60 FPS / <50ms,Max,Multi-Subject & UI
+ASM-V19-100,CREATOR_STUDIO,Community Lesson & Quest Builder,Targeted Speak Practice Drills,60 FPS / <50ms,Free,Speaking & Listening
+ASM-V19-101,AI_VOICE,WebRTC Full-Duplex AI Voice Call Engine,Targeted Listen Practice Drills,<230ms,Plus,Grammar & Syntax
+ASM-V19-102,PHONEMICS,Acoustic Phoneme & Formant Analyzer,Words Flashcards with Audio & Visuals,<240ms,Max,Vocabulary & Recall
+ASM-V19-103,PLACEMENT,Diagnostic Placement & Adaptive Learning,Match Madness Rapid Tile-Matching Game,60 FPS / <50ms,Free,Multi-Subject & UI
+ASM-V19-104,SYNTAX,Explain My Answer Syntax Parser,Ramp Up Timed Challenge,60 FPS / <50ms,Plus,Speaking & Listening
+ASM-V19-105,PRACTICE,Practice Hub & SM-2 Spaced Repetition,Daily Weakness Shield Protection,60 FPS / <50ms,Max,Grammar & Syntax
+ASM-V19-106,MULTIMODAL,Multimodal AR Camera Scanner,Unit-Specific Custom Review Selector,60 FPS / <50ms,Free,Vocabulary & Recall
+ASM-V19-107,ROLEPLAY,Procedural Generative AI Roleplay,Spaced-Repetition Smart Alerts,60 FPS / <50ms,Plus,Multi-Subject & UI
+ASM-V19-108,GAMIFICATION,"Leagues, Quests & Tournament Engine",Practice Session XP Multiplier,60 FPS / <50ms,Max,Speaking & Listening
+ASM-V19-109,MULTISUBJECT,"Math, Music, Chess & DET Specialists",Vocabulary Mastery Tiers (Novice to Permanent),60 FPS / <50ms,Free,Grammar & Syntax
+ASM-V19-110,UI_UX_DESIGN,Ultra-Performance UI/UX Design System,Batch Mistake Resolution Tracker,60 FPS / <50ms,Plus,Vocabulary & Recall
+ASM-V19-111,OFFLINE_CACHE,Offline-First SQLite Caching & Sync,Audio-Only Hands-Free Practice Mode,60 FPS / <50ms,Max,Multi-Subject & UI
+ASM-V19-112,SOCIAL_COMMUNITY,"Friends, Guilds & Social Feed",Sentence Building Drag-and-Drop Puzzle,60 FPS / <50ms,Free,Speaking & Listening
+ASM-V19-113,ACCESSIBILITY,WCAG 2.1 AA & Adaptive Haptics,Dictation Practice Real-Time Validation,60 FPS / <50ms,Plus,Grammar & Syntax
+ASM-V19-114,SECURITY_PRIVACY,Zero-Trust Encryption & COPPA Safety,Synonym & Antonym Speed Matcher,60 FPS / <50ms,Max,Vocabulary & Recall
+ASM-V19-115,ANALYTICS_BI,Predictive Learning Analytics & Heatmaps,Contextual Cloze Fill-in-the-Blank Generator,60 FPS / <50ms,Free,Multi-Subject & UI
+ASM-V19-116,ENTERPRISE_SCHOOLS,Duolingo for Schools & Corporate LMS,Speed Reading Comprehension Checks,60 FPS / <50ms,Plus,Speaking & Listening
+ASM-V19-117,AUDIO_MUSIC_ENGINE,Spatial Audio & Synthesizer Engine,Yellow-Flagged Phoneme Targeted Drills,60 FPS / <50ms,Max,Grammar & Syntax
+ASM-V19-118,NOTIFICATIONS_CRON,Smart Push Notifications & Nudges,Weekly Practice Digest Email Report,60 FPS / <50ms,Free,Vocabulary & Recall
+ASM-V19-119,CONTENT_PIPELINE,Automated CEFR Curriculum Generator,Independent Practice Streak Counter,60 FPS / <50ms,Plus,Multi-Subject & UI
+ASM-V19-120,CREATOR_STUDIO,Community Lesson & Quest Builder,Offline Practice Queue Auto-Sync,60 FPS / <50ms,Max,Speaking & Listening
+ASM-V19-121,AI_VOICE,WebRTC Full-Duplex AI Voice Call Engine,Real-Time Object Camera Scanner,<130ms,Free,Grammar & Syntax
+ASM-V19-122,PHONEMICS,Acoustic Phoneme & Formant Analyzer,Instant Vocabulary Card Creation,<140ms,Plus,Vocabulary & Recall
+ASM-V19-123,PLACEMENT,Diagnostic Placement & Adaptive Learning,OCR Printed Sign & Menu Translator,60 FPS / <50ms,Max,Multi-Subject & UI
+ASM-V19-124,SYNTAX,Explain My Answer Syntax Parser,Audio Pronunciation Trigger on Scan,60 FPS / <50ms,Free,Speaking & Listening
+ASM-V19-125,PRACTICE,Practice Hub & SM-2 Spaced Repetition,Scene Description AI Sentence Generator,60 FPS / <50ms,Plus,Grammar & Syntax
+ASM-V19-126,MULTIMODAL,Multimodal AR Camera Scanner,AR Screen Floating Word Labels Overlay,60 FPS / <50ms,Max,Vocabulary & Recall
+ASM-V19-127,ROLEPLAY,Procedural Generative AI Roleplay,Environment-Based Custom Quiz Generator,60 FPS / <50ms,Free,Multi-Subject & UI
+ASM-V19-128,GAMIFICATION,"Leagues, Quests & Tournament Engine",Multi-Object Bounding Box Detector,60 FPS / <50ms,Plus,Speaking & Listening
+ASM-V19-129,MULTISUBJECT,"Math, Music, Chess & DET Specialists",Travel Mode Currency & Unit Converter,60 FPS / <50ms,Max,Grammar & Syntax
+ASM-V19-130,UI_UX_DESIGN,Ultra-Performance UI/UX Design System,Handwriting Foreign Script OCR,60 FPS / <50ms,Free,Vocabulary & Recall
+ASM-V19-131,OFFLINE_CACHE,Offline-First SQLite Caching & Sync,Color & Property Adjective Extractor,60 FPS / <50ms,Plus,Multi-Subject & UI
+ASM-V19-132,SOCIAL_COMMUNITY,"Friends, Guilds & Social Feed",Single-Tap Save Scanned Word to Flashcards,60 FPS / <50ms,Max,Speaking & Listening
+ASM-V19-133,ACCESSIBILITY,WCAG 2.1 AA & Adaptive Haptics,Offline Vision Model Local Execution,60 FPS / <50ms,Free,Grammar & Syntax
+ASM-V19-134,SECURITY_PRIVACY,Zero-Trust Encryption & COPPA Safety,Low-Light Auto Enhancement Vision Filter,60 FPS / <50ms,Plus,Vocabulary & Recall
+ASM-V19-135,ANALYTICS_BI,Predictive Learning Analytics & Heatmaps,Cultural Artifact Background Context Notes,60 FPS / <50ms,Max,Multi-Subject & UI
+ASM-V19-136,ENTERPRISE_SCHOOLS,Duolingo for Schools & Corporate LMS,Example Sentence Live Contextualizer,60 FPS / <50ms,Free,Speaking & Listening
+ASM-V19-137,AUDIO_MUSIC_ENGINE,Spatial Audio & Synthesizer Engine,Spatial Vocabulary Preposition Mapper,60 FPS / <50ms,Plus,Grammar & Syntax
+ASM-V19-138,NOTIFICATIONS_CRON,Smart Push Notifications & Nudges,Scanned Items Geotag History Log,60 FPS / <50ms,Max,Vocabulary & Recall
+ASM-V19-139,CONTENT_PIPELINE,Automated CEFR Curriculum Generator,Shareable Visual Flashcard Creator,60 FPS / <50ms,Free,Multi-Subject & UI
+ASM-V19-140,CREATOR_STUDIO,Community Lesson & Quest Builder,AR Camera Scavenger Hunt Quests,60 FPS / <50ms,Plus,Speaking & Listening
+ASM-V19-141,AI_VOICE,WebRTC Full-Duplex AI Voice Call Engine,"1,000+ Procedural Real-World Scenarios",<180ms,Max,Grammar & Syntax
+ASM-V19-142,PHONEMICS,Acoustic Phoneme & Formant Analyzer,Adaptive CEFR Difficulty Auto-Tuning,<190ms,Free,Vocabulary & Recall
+ASM-V19-143,PLACEMENT,Diagnostic Placement & Adaptive Learning,Branching Dialogue Story Choices,60 FPS / <50ms,Plus,Multi-Subject & UI
+ASM-V19-144,SYNTAX,Explain My Answer Syntax Parser,"Distinct Persona AI Characters (Lily, Eddy, Lin)",60 FPS / <50ms,Max,Speaking & Listening
+ASM-V19-145,PRACTICE,Practice Hub & SM-2 Spaced Repetition,Live Hint Engine with 3 Choices,60 FPS / <50ms,Free,Grammar & Syntax
+ASM-V19-146,MULTIMODAL,Multimodal AR Camera Scanner,Custom Scenario Prompt Builder,60 FPS / <50ms,Plus,Vocabulary & Recall
+ASM-V19-147,ROLEPLAY,Procedural Generative AI Roleplay,Post-Roleplay Detailed Scorecard,60 FPS / <50ms,Max,Multi-Subject & UI
+ASM-V19-148,GAMIFICATION,"Leagues, Quests & Tournament Engine",Transcript Export & Audio Playback,60 FPS / <50ms,Free,Speaking & Listening
+ASM-V19-149,MULTISUBJECT,"Math, Music, Chess & DET Specialists",Cultural Etiquette & Social Norms Tips,60 FPS / <50ms,Plus,Grammar & Syntax
+ASM-V19-150,UI_UX_DESIGN,Ultra-Performance UI/UX Design System,Time-Pressure Fast Dialogue Mode,60 FPS / <50ms,Max,Vocabulary & Recall
+ASM-V19-151,OFFLINE_CACHE,Offline-First SQLite Caching & Sync,3-Way Multi-Character Conversation Simulation,60 FPS / <50ms,Free,Multi-Subject & UI
+ASM-V19-152,SOCIAL_COMMUNITY,"Friends, Guilds & Social Feed",Politeness & Register Tone Detector,60 FPS / <50ms,Plus,Speaking & Listening
+ASM-V19-153,ACCESSIBILITY,WCAG 2.1 AA & Adaptive Haptics,Real-Time Objective Checklist Tracker,60 FPS / <50ms,Max,Grammar & Syntax
+ASM-V19-154,SECURITY_PRIVACY,Zero-Trust Encryption & COPPA Safety,Roleplay Replay & Alternative Path Exploration,60 FPS / <50ms,Free,Vocabulary & Recall
+ASM-V19-155,ANALYTICS_BI,Predictive Learning Analytics & Heatmaps,Post-Session Recommended Vocabulary List,60 FPS / <50ms,Plus,Multi-Subject & UI
+ASM-V19-156,ENTERPRISE_SCHOOLS,Duolingo for Schools & Corporate LMS,"Industry-Specific Scenarios (Medical, Tech)",60 FPS / <50ms,Max,Speaking & Listening
+ASM-V19-157,AUDIO_MUSIC_ENGINE,Spatial Audio & Synthesizer Engine,Collectible Roleplay Milestone Badges,60 FPS / <50ms,Free,Grammar & Syntax
+ASM-V19-158,NOTIFICATIONS_CRON,Smart Push Notifications & Nudges,Soft Conversational Out-of-Context Redirection,60 FPS / <50ms,Plus,Vocabulary & Recall
+ASM-V19-159,CONTENT_PIPELINE,Automated CEFR Curriculum Generator,Adaptive Ambient Soundscapes for Immersion,60 FPS / <50ms,Max,Multi-Subject & UI
+ASM-V19-160,CREATOR_STUDIO,Community Lesson & Quest Builder,Daily Featured Roleplay Selection,60 FPS / <50ms,Free,Speaking & Listening
+ASM-V19-161,AI_VOICE,WebRTC Full-Duplex AI Voice Call Engine,Fair 30-Player Timezone Matchmaking,<230ms,Plus,Grammar & Syntax
+ASM-V19-162,PHONEMICS,Acoustic Phoneme & Formant Analyzer,Anti-Cheat AI Guardian Script Inspector,<240ms,Max,Vocabulary & Recall
+ASM-V19-163,PLACEMENT,Diagnostic Placement & Adaptive Learning,Diamond Tournament 3-Stage Elimination,60 FPS / <50ms,Free,Multi-Subject & UI
+ASM-V19-164,SYNTAX,Explain My Answer Syntax Parser,Streak Society 30+ Day Perks Engine,60 FPS / <50ms,Plus,Speaking & Listening
+ASM-V19-165,PRACTICE,Practice Hub & SM-2 Spaced Repetition,2x XP Booster Early Bird & Night Owl Chests,60 FPS / <50ms,Max,Grammar & Syntax
+ASM-V19-166,MULTIMODAL,Multimodal AR Camera Scanner,Personalized Daily Quests Generator,60 FPS / <50ms,Free,Vocabulary & Recall
+ASM-V19-167,ROLEPLAY,Procedural Generative AI Roleplay,Monthly Badge Challenge Progress Tracker,60 FPS / <50ms,Plus,Multi-Subject & UI
+ASM-V19-168,GAMIFICATION,"Leagues, Quests & Tournament Engine",Friends Quest Activity-Matched Pairs,60 FPS / <50ms,Max,Speaking & Listening
+ASM-V19-169,MULTISUBJECT,"Math, Music, Chess & DET Specialists",Legendary Level Zero-Hint Challenges,60 FPS / <50ms,Free,Grammar & Syntax
+ASM-V19-170,UI_UX_DESIGN,Ultra-Performance UI/UX Design System,Demotion Zone Warning Alerts with Catch-Up Drills,60 FPS / <50ms,Plus,Vocabulary & Recall
+ASM-V19-171,OFFLINE_CACHE,Offline-First SQLite Caching & Sync,Global Calendar Event XP Multipliers,60 FPS / <50ms,Max,Multi-Subject & UI
+ASM-V19-172,SOCIAL_COMMUNITY,"Friends, Guilds & Social Feed",Promotion Probability Live Estimator,60 FPS / <50ms,Free,Speaking & Listening
+ASM-V19-173,ACCESSIBILITY,WCAG 2.1 AA & Adaptive Haptics,Timezone-Aware Sunday Synchronized Resets,60 FPS / <50ms,Plus,Grammar & Syntax
+ASM-V19-174,SECURITY_PRIVACY,Zero-Trust Encryption & COPPA Safety,Auto-Streak Freeze Protection Trigger,60 FPS / <50ms,Max,Vocabulary & Recall
+ASM-V19-175,ANALYTICS_BI,Predictive Learning Analytics & Heatmaps,Avatar Gear & Outfit Unlocks Shop,60 FPS / <50ms,Free,Multi-Subject & UI
+ASM-V19-176,ENTERPRISE_SCHOOLS,Duolingo for Schools & Corporate LMS,60 FPS Milestone Celebration Animations,60 FPS / <50ms,Plus,Speaking & Listening
+ASM-V19-177,AUDIO_MUSIC_ENGINE,Spatial Audio & Synthesizer Engine,Peer High-Five & Sticker Nudges,60 FPS / <50ms,Max,Grammar & Syntax
+ASM-V19-178,NOTIFICATIONS_CRON,Smart Push Notifications & Nudges,Leaderboard Public vs Private Toggle,60 FPS / <50ms,Free,Vocabulary & Recall
+ASM-V19-179,CONTENT_PIPELINE,Automated CEFR Curriculum Generator,Exclusive Diamond Tournament Badge,60 FPS / <50ms,Plus,Multi-Subject & UI
+ASM-V19-180,CREATOR_STUDIO,Community Lesson & Quest Builder,Streak Recovery Special Quests,60 FPS / <50ms,Max,Speaking & Listening
+ASM-V19-181,AI_VOICE,WebRTC Full-Duplex AI Voice Call Engine,Asmaron Math AI Step-by-Step Solver,<130ms,Free,Grammar & Syntax
+ASM-V19-182,PHONEMICS,Acoustic Phoneme & Formant Analyzer,Asmaron Music AI Digital Piano Keyboard Validator,<140ms,Plus,Vocabulary & Recall
+ASM-V19-183,PLACEMENT,Diagnostic Placement & Adaptive Learning,Asmaron Chess AI Stockfish-v16 Engine,60 FPS / <50ms,Max,Multi-Subject & UI
+ASM-V19-184,SYNTAX,Explain My Answer Syntax Parser,Asmaron ABC Phonics & Tracing for Kids,60 FPS / <50ms,Free,Speaking & Listening
+ASM-V19-185,PRACTICE,Practice Hub & SM-2 Spaced Repetition,Asmaron English Test (DET) Automated Scoring,60 FPS / <50ms,Plus,Grammar & Syntax
+ASM-V19-186,MULTIMODAL,Multimodal AR Camera Scanner,Cross-Subject Unified Single XP Pool,60 FPS / <50ms,Max,Vocabulary & Recall
+ASM-V19-187,ROLEPLAY,Procedural Generative AI Roleplay,Musical Sight-Reading Speed Trainer,60 FPS / <50ms,Free,Multi-Subject & UI
+ASM-V19-188,GAMIFICATION,"Leagues, Quests & Tournament Engine",Math Word-Problem Natural Language Parser,60 FPS / <50ms,Plus,Speaking & Listening
+ASM-V19-189,MULTISUBJECT,"Math, Music, Chess & DET Specialists",Chess Blunder Analysis & Variation Explorer,60 FPS / <50ms,Max,Grammar & Syntax
+ASM-V19-190,UI_UX_DESIGN,Ultra-Performance UI/UX Design System,Phonics Sound-Symbol Relationship Validator,60 FPS / <50ms,Free,Vocabulary & Recall
+ASM-V19-191,OFFLINE_CACHE,Offline-First SQLite Caching & Sync,Practice DET Score Estimator with Subscores,60 FPS / <50ms,Plus,Multi-Subject & UI
+ASM-V19-192,SOCIAL_COMMUNITY,"Friends, Guilds & Social Feed",Interactive Geometry Formula Grapher,60 FPS / <50ms,Max,Speaking & Listening
+ASM-V19-193,ACCESSIBILITY,WCAG 2.1 AA & Adaptive Haptics,Music Metronome Dynamic Tempo Trainer,60 FPS / <50ms,Free,Grammar & Syntax
+ASM-V19-194,SECURITY_PRIVACY,Zero-Trust Encryption & COPPA Safety,Chess Opening Book Interactive Tutor,60 FPS / <50ms,Plus,Vocabulary & Recall
+ASM-V19-195,ANALYTICS_BI,Predictive Learning Analytics & Heatmaps,Deep Slate OLED Theme (#0F172A),60 FPS / <50ms,Max,Multi-Subject & UI
+ASM-V19-196,ENTERPRISE_SCHOOLS,Duolingo for Schools & Corporate LMS,High-Readability Light Mode Canvas (#F8FAFC),60 FPS / <50ms,Free,Speaking & Listening
+ASM-V19-197,AUDIO_MUSIC_ENGINE,Spatial Audio & Synthesizer Engine,60 FPS GPU-Accelerated Micro-Interactions,60 FPS / <50ms,Plus,Grammar & Syntax
+ASM-V19-198,NOTIFICATIONS_CRON,Smart Push Notifications & Nudges,"Sticky Header Stats Bar (Streak, Gems, Boosters)",60 FPS / <50ms,Max,Vocabulary & Recall
+ASM-V19-199,CONTENT_PIPELINE,Automated CEFR Curriculum Generator,CEFR Path Snake Layout Node Map,60 FPS / <50ms,Free,Multi-Subject & UI
+ASM-V19-200,CREATOR_STUDIO,Community Lesson & Quest Builder,Completed Node Checkmark Animations,60 FPS / <50ms,Plus,Speaking & Listening
+ASM-V19-201,AI_VOICE,WebRTC Full-Duplex AI Voice Call Engine,Active Node Pulsing Glowing Ring,<180ms,Max,Grammar & Syntax
+ASM-V19-202,PHONEMICS,Acoustic Phoneme & Formant Analyzer,Locked Node Visual Haptic Feedback,<190ms,Free,Vocabulary & Recall
+ASM-V19-203,PLACEMENT,Diagnostic Placement & Adaptive Learning,Floating WebRTC Voice Call Widget,60 FPS / <50ms,Plus,Multi-Subject & UI
+ASM-V19-204,SYNTAX,Explain My Answer Syntax Parser,Dynamic Progress Bar Filling Physics,60 FPS / <50ms,Max,Speaking & Listening
+ASM-V19-205,PRACTICE,Practice Hub & SM-2 Spaced Repetition,Bottom Tab Navigation with Haptic Touches,60 FPS / <50ms,Free,Grammar & Syntax
+ASM-V19-206,MULTIMODAL,Multimodal AR Camera Scanner,Modal Sheet Smooth Slide-Up Transitions,60 FPS / <50ms,Plus,Vocabulary & Recall
+ASM-V19-207,ROLEPLAY,Procedural Generative AI Roleplay,"Responsive Multi-Device Layout (Mobile, Tablet, Web)",60 FPS / <50ms,Max,Multi-Subject & UI
+ASM-V19-208,GAMIFICATION,"Leagues, Quests & Tournament Engine",Custom Typography System (Roboto & Helvetica),60 FPS / <50ms,Free,Speaking & Listening
+ASM-V19-209,MULTISUBJECT,"Math, Music, Chess & DET Specialists",Color-Coded Feedback Cards (Green/Red),60 FPS / <50ms,Plus,Grammar & Syntax
+ASM-V19-210,UI_UX_DESIGN,Ultra-Performance UI/UX Design System,Confetti Burst Particle Engine on Lesson Finish,60 FPS / <50ms,Max,Vocabulary & Recall
+ASM-V19-211,OFFLINE_CACHE,Offline-First SQLite Caching & Sync,Interactive Drag-and-Drop Word Tiles,60 FPS / <50ms,Free,Multi-Subject & UI
+ASM-V19-212,SOCIAL_COMMUNITY,"Friends, Guilds & Social Feed",Freeform Typing Keyboard Input Bar,60 FPS / <50ms,Plus,Speaking & Listening
+ASM-V19-213,ACCESSIBILITY,WCAG 2.1 AA & Adaptive Haptics,Audio Waveform Visualizer Component,60 FPS / <50ms,Max,Grammar & Syntax
+ASM-V19-214,SECURITY_PRIVACY,Zero-Trust Encryption & COPPA Safety,Sub-50ms Screen Navigation Latency,60 FPS / <50ms,Free,Vocabulary & Recall
+ASM-V19-215,ANALYTICS_BI,Predictive Learning Analytics & Heatmaps,Offline-First Local SQLite Database Storage,60 FPS / <50ms,Plus,Multi-Subject & UI
+ASM-V19-216,ENTERPRISE_SCHOOLS,Duolingo for Schools & Corporate LMS,Background Sync Engine on Reconnection,60 FPS / <50ms,Max,Speaking & Listening
+ASM-V19-217,AUDIO_MUSIC_ENGINE,Spatial Audio & Synthesizer Engine,Delta State Sync Protocol,60 FPS / <50ms,Free,Grammar & Syntax
+ASM-V19-218,NOTIFICATIONS_CRON,Smart Push Notifications & Nudges,Local Asset Caching Engine,60 FPS / <50ms,Plus,Vocabulary & Recall
+ASM-V19-219,CONTENT_PIPELINE,Automated CEFR Curriculum Generator,Encrypted Local Preferences Storage,60 FPS / <50ms,Max,Multi-Subject & UI
+ASM-V19-220,CREATOR_STUDIO,Community Lesson & Quest Builder,Automatic Crash Dump & Self-Healing,60 FPS / <50ms,Free,Speaking & Listening
+ASM-V19-221,AI_VOICE,WebRTC Full-Duplex AI Voice Call Engine,Zero-Data-Loss Transactional Ledger,<230ms,Plus,Grammar & Syntax
+ASM-V19-222,PHONEMICS,Acoustic Phoneme & Formant Analyzer,Low-Bandwidth Adaptive Packet Compression,<240ms,Max,Vocabulary & Recall
+ASM-V19-223,PLACEMENT,Diagnostic Placement & Adaptive Learning,Offline Audio Pre-fetching Queue,60 FPS / <50ms,Free,Multi-Subject & UI
+ASM-V19-224,SYNTAX,Explain My Answer Syntax Parser,Zero-Lag SQLite Index Optimization,60 FPS / <50ms,Plus,Speaking & Listening
+ASM-V19-225,PRACTICE,Practice Hub & SM-2 Spaced Repetition,Friend Feed Activity Stream,60 FPS / <50ms,Max,Grammar & Syntax
+ASM-V19-226,MULTIMODAL,Multimodal AR Camera Scanner,Peer High-Five & Reaction Emotes,60 FPS / <50ms,Free,Vocabulary & Recall
+ASM-V19-227,ROLEPLAY,Procedural Generative AI Roleplay,Friends Quest Co-Op Challenge System,60 FPS / <50ms,Plus,Multi-Subject & UI
+ASM-V19-228,GAMIFICATION,"Leagues, Quests & Tournament Engine",Global Guilds & Study Clubs,60 FPS / <50ms,Max,Speaking & Listening
+ASM-V19-229,MULTISUBJECT,"Math, Music, Chess & DET Specialists",Guild Leaderboards & Weekly Trophies,60 FPS / <50ms,Free,Grammar & Syntax
+ASM-V19-230,UI_UX_DESIGN,Ultra-Performance UI/UX Design System,Direct Peer Audio Challenge Duels,60 FPS / <50ms,Plus,Vocabulary & Recall
+ASM-V19-231,OFFLINE_CACHE,Offline-First SQLite Caching & Sync,Social Profile Customization & Badges,60 FPS / <50ms,Max,Multi-Subject & UI
+ASM-V19-232,SOCIAL_COMMUNITY,"Friends, Guilds & Social Feed",Custom Avatar Builder with Accessories,60 FPS / <50ms,Free,Speaking & Listening
+ASM-V19-233,ACCESSIBILITY,WCAG 2.1 AA & Adaptive Haptics,Shareable Achievement Image Cards,60 FPS / <50ms,Plus,Grammar & Syntax
+ASM-V19-234,SECURITY_PRIVACY,Zero-Trust Encryption & COPPA Safety,Friend Referral XP Rewards Program,60 FPS / <50ms,Max,Vocabulary & Recall
+ASM-V19-235,ANALYTICS_BI,Predictive Learning Analytics & Heatmaps,Screen Reader Compatibility (VoiceOver / TalkBack),60 FPS / <50ms,Free,Multi-Subject & UI
+ASM-V19-236,ENTERPRISE_SCHOOLS,Duolingo for Schools & Corporate LMS,High Contrast Mode Toggle,60 FPS / <50ms,Plus,Speaking & Listening
+ASM-V19-237,AUDIO_MUSIC_ENGINE,Spatial Audio & Synthesizer Engine,Dynamic Font Scaling Support (Up to 200%),60 FPS / <50ms,Max,Grammar & Syntax
+ASM-V19-238,NOTIFICATIONS_CRON,Smart Push Notifications & Nudges,Haptic Motor Feedback Customizer,60 FPS / <50ms,Free,Vocabulary & Recall
+ASM-V19-239,CONTENT_PIPELINE,Automated CEFR Curriculum Generator,"Colorblind Color Palette Presets (Protanopia, Deuteranopia)",60 FPS / <50ms,Plus,Multi-Subject & UI
+ASM-V19-240,CREATOR_STUDIO,Community Lesson & Quest Builder,Subtitles & Captions Overlay for Audio,60 FPS / <50ms,Max,Speaking & Listening
+ASM-V19-241,AI_VOICE,WebRTC Full-Duplex AI Voice Call Engine,Single-Tap Slow Audio Toggle,<130ms,Free,Grammar & Syntax
+ASM-V19-242,PHONEMICS,Acoustic Phoneme & Formant Analyzer,Reduced Motion Animation Toggle,<140ms,Plus,Vocabulary & Recall
+ASM-V19-243,PLACEMENT,Diagnostic Placement & Adaptive Learning,Left-Handed One-Thumb Layout Mode,60 FPS / <50ms,Max,Multi-Subject & UI
+ASM-V19-244,SYNTAX,Explain My Answer Syntax Parser,Cognitive Load Simplified UI Preset,60 FPS / <50ms,Free,Speaking & Listening
+ASM-V19-245,PRACTICE,Practice Hub & SM-2 Spaced Repetition,AES-256 End-to-End Voice Audio Encryption,60 FPS / <50ms,Plus,Grammar & Syntax
+ASM-V19-246,MULTIMODAL,Multimodal AR Camera Scanner,COPPA Compliant Child Privacy Guard,60 FPS / <50ms,Max,Vocabulary & Recall
+ASM-V19-247,ROLEPLAY,Procedural Generative AI Roleplay,GDPR Data Export & Right-to-Be-Forgotten,60 FPS / <50ms,Free,Multi-Subject & UI
+ASM-V19-248,GAMIFICATION,"Leagues, Quests & Tournament Engine",Zero Third-Party Ad Tracker Injection,60 FPS / <50ms,Plus,Speaking & Listening
+ASM-V19-249,MULTISUBJECT,"Math, Music, Chess & DET Specialists",Biometric App Lock (Fingerprint / Face ID),60 FPS / <50ms,Max,Grammar & Syntax
+ASM-V19-250,UI_UX_DESIGN,Ultra-Performance UI/UX Design System,Session Hijack Prevention Token Rotating,60 FPS / <50ms,Free,Vocabulary & Recall
+ASM-V19-251,OFFLINE_CACHE,Offline-First SQLite Caching & Sync,Input Sanitization & Injection Shield,60 FPS / <50ms,Plus,Multi-Subject & UI
+ASM-V19-252,SOCIAL_COMMUNITY,"Friends, Guilds & Social Feed",Secure Cloud Backup with User Key,60 FPS / <50ms,Max,Speaking & Listening
+ASM-V19-253,ACCESSIBILITY,WCAG 2.1 AA & Adaptive Haptics,Anonymized Performance Analytics,60 FPS / <50ms,Free,Grammar & Syntax
+ASM-V19-254,SECURITY_PRIVACY,Zero-Trust Encryption & COPPA Safety,Content Safety & Harassment Auto-Filter,60 FPS / <50ms,Plus,Vocabulary & Recall
+ASM-V19-255,ANALYTICS_BI,Predictive Learning Analytics & Heatmaps,Spaced Repetition Retention Heatmaps,60 FPS / <50ms,Max,Multi-Subject & UI
+ASM-V19-256,ENTERPRISE_SCHOOLS,Duolingo for Schools & Corporate LMS,Daily Active Learning Time Tracker,60 FPS / <50ms,Free,Speaking & Listening
+ASM-V19-257,AUDIO_MUSIC_ENGINE,Spatial Audio & Synthesizer Engine,Skill Breakdown Spider/Radar Chart,60 FPS / <50ms,Plus,Grammar & Syntax
+ASM-V19-258,NOTIFICATIONS_CRON,Smart Push Notifications & Nudges,Accuracy Percentage Velocity Trends,60 FPS / <50ms,Max,Vocabulary & Recall
+ASM-V19-259,CONTENT_PIPELINE,Automated CEFR Curriculum Generator,Pronunciation Phoneme Improvement Graph,60 FPS / <50ms,Free,Multi-Subject & UI
+ASM-V19-260,CREATOR_STUDIO,Community Lesson & Quest Builder,CEFR Level Completion Estimator,60 FPS / <50ms,Plus,Speaking & Listening
+ASM-V19-261,AI_VOICE,WebRTC Full-Duplex AI Voice Call Engine,Streak History Calendar Heatmap,<180ms,Max,Grammar & Syntax
+ASM-V19-262,PHONEMICS,Acoustic Phoneme & Formant Analyzer,Weakness Distribution Bar Chart,<190ms,Free,Vocabulary & Recall
+ASM-V19-263,PLACEMENT,Diagnostic Placement & Adaptive Learning,Exportable Study Summary Analytics PDF,60 FPS / <50ms,Plus,Multi-Subject & UI
+ASM-V19-264,SYNTAX,Explain My Answer Syntax Parser,Comparative Peer Group Benchmarks,60 FPS / <50ms,Max,Speaking & Listening
+ASM-V19-265,PRACTICE,Practice Hub & SM-2 Spaced Repetition,Duolingo for Schools Classroom Dashboard,60 FPS / <50ms,Free,Grammar & Syntax
+ASM-V19-266,MULTIMODAL,Multimodal AR Camera Scanner,Teacher Assignment & Quiz Builder,60 FPS / <50ms,Plus,Vocabulary & Recall
+ASM-V19-267,ROLEPLAY,Procedural Generative AI Roleplay,Student Progress Monitoring Grid,60 FPS / <50ms,Max,Multi-Subject & UI
+ASM-V19-268,GAMIFICATION,"Leagues, Quests & Tournament Engine",Roster CSV Bulk Import & Export,60 FPS / <50ms,Free,Speaking & Listening
+ASM-V19-269,MULTISUBJECT,"Math, Music, Chess & DET Specialists",Automated Homework Reminders,60 FPS / <50ms,Plus,Grammar & Syntax
+ASM-V19-270,UI_UX_DESIGN,Ultra-Performance UI/UX Design System,Classroom Leaderboards & Group Quests,60 FPS / <50ms,Max,Vocabulary & Recall
+ASM-V19-271,OFFLINE_CACHE,Offline-First SQLite Caching & Sync,Custom Curriculum Unit Selection,60 FPS / <50ms,Free,Multi-Subject & UI
+ASM-V19-272,SOCIAL_COMMUNITY,"Friends, Guilds & Social Feed",Printable Student Activity Worksheets,60 FPS / <50ms,Plus,Speaking & Listening
+ASM-V19-273,ACCESSIBILITY,WCAG 2.1 AA & Adaptive Haptics,"LMS Integration (Canvas, Google Classroom, Moodle)",60 FPS / <50ms,Max,Grammar & Syntax
+ASM-V19-274,SECURITY_PRIVACY,Zero-Trust Encryption & COPPA Safety,Parental Progress Email Weekly Digests,60 FPS / <50ms,Free,Vocabulary & Recall
+ASM-V19-275,ANALYTICS_BI,Predictive Learning Analytics & Heatmaps,3D HRTF Spatial Audio Engine,60 FPS / <50ms,Plus,Multi-Subject & UI
+ASM-V19-276,ENTERPRISE_SCHOOLS,Duolingo for Schools & Corporate LMS,Interactive Digital Piano Synthesizer,60 FPS / <50ms,Max,Speaking & Listening
+ASM-V19-277,AUDIO_MUSIC_ENGINE,Spatial Audio & Synthesizer Engine,Acoustic Noise Suppression Filter,60 FPS / <50ms,Free,Grammar & Syntax
+ASM-V19-278,NOTIFICATIONS_CRON,Smart Push Notifications & Nudges,Dynamic Equalizer Preset Switcher,60 FPS / <50ms,Plus,Vocabulary & Recall
+ASM-V19-279,CONTENT_PIPELINE,Automated CEFR Curriculum Generator,Multi-Channel Audio Mixer,60 FPS / <50ms,Max,Multi-Subject & UI
+ASM-V19-280,CREATOR_STUDIO,Community Lesson & Quest Builder,Binaural Beat Focus Audio Backgrounds,60 FPS / <50ms,Free,Speaking & Listening
+ASM-V19-281,AI_VOICE,WebRTC Full-Duplex AI Voice Call Engine,Phoneme Sound Synthesizer Engine,<230ms,Plus,Grammar & Syntax
+ASM-V19-282,PHONEMICS,Acoustic Phoneme & Formant Analyzer,Low-Latency Audio Buffer Tuning (<10ms),<240ms,Max,Vocabulary & Recall
+ASM-V19-283,PLACEMENT,Diagnostic Placement & Adaptive Learning,MIDI Keyboard USB & Bluetooth Support,60 FPS / <50ms,Free,Multi-Subject & UI
+ASM-V19-284,SYNTAX,Explain My Answer Syntax Parser,Real-Time Microphone Volume Normalizer,60 FPS / <50ms,Plus,Speaking & Listening
+ASM-V19-285,PRACTICE,Practice Hub & SM-2 Spaced Repetition,Smart Timezone-Aware Push Notifications,60 FPS / <50ms,Max,Grammar & Syntax
+ASM-V19-286,MULTIMODAL,Multimodal AR Camera Scanner,Streak Saver Last-Chance Night Alerts,60 FPS / <50ms,Free,Vocabulary & Recall
+ASM-V19-287,ROLEPLAY,Procedural Generative AI Roleplay,Early Bird Chest Unlock Reminders,60 FPS / <50ms,Plus,Multi-Subject & UI
+ASM-V19-288,GAMIFICATION,"Leagues, Quests & Tournament Engine",Personalized Daily Study Time Nudges,60 FPS / <50ms,Max,Speaking & Listening
+ASM-V19-289,MULTISUBJECT,"Math, Music, Chess & DET Specialists",Friends Quest Milestone Notifications,60 FPS / <50ms,Free,Grammar & Syntax
+ASM-V19-290,UI_UX_DESIGN,Ultra-Performance UI/UX Design System,Inactive User Win-Back Smart Campaigns,60 FPS / <50ms,Plus,Vocabulary & Recall
+ASM-V19-291,OFFLINE_CACHE,Offline-First SQLite Caching & Sync,Interactive Notification Quick Action Buttons,60 FPS / <50ms,Max,Multi-Subject & UI
+ASM-V19-292,SOCIAL_COMMUNITY,"Friends, Guilds & Social Feed",Quiet Hours Custom Scheduler,60 FPS / <50ms,Free,Speaking & Listening
+ASM-V19-293,ACCESSIBILITY,WCAG 2.1 AA & Adaptive Haptics,Weekly League Reset Countdown Alerts,60 FPS / <50ms,Plus,Grammar & Syntax
+ASM-V19-294,SECURITY_PRIVACY,Zero-Trust Encryption & COPPA Safety,Adaptive Push Notification Frequency AI,60 FPS / <50ms,Max,Vocabulary & Recall
+ASM-V19-295,ANALYTICS_BI,Predictive Learning Analytics & Heatmaps,Automated CEFR Exercise Generator,60 FPS / <50ms,Free,Multi-Subject & UI
+ASM-V19-296,ENTERPRISE_SCHOOLS,Duolingo for Schools & Corporate LMS,AI Grammar Question Creator,60 FPS / <50ms,Plus,Speaking & Listening
+ASM-V19-297,AUDIO_MUSIC_ENGINE,Spatial Audio & Synthesizer Engine,Audio Pronunciation Batch Renderer,60 FPS / <50ms,Max,Grammar & Syntax
+ASM-V19-298,NOTIFICATIONS_CRON,Smart Push Notifications & Nudges,Multi-Language Parallel Text Ingestor,60 FPS / <50ms,Free,Vocabulary & Recall
+ASM-V19-299,CONTENT_PIPELINE,Automated CEFR Curriculum Generator,Automated Distractor Answer Generator,60 FPS / <50ms,Plus,Multi-Subject & UI
+ASM-V19-300,CREATOR_STUDIO,Community Lesson & Quest Builder,Curriculum Quality Scoring Algorithm,60 FPS / <50ms,Max,Speaking & Listening
+ASM-V19-301,AI_VOICE,WebRTC Full-Duplex AI Voice Call Engine,Vocabulary Frequency Ranker Engine,<130ms,Free,Grammar & Syntax
+ASM-V19-302,PHONEMICS,Acoustic Phoneme & Formant Analyzer,Cultural Context Relevance Inspector,<140ms,Plus,Vocabulary & Recall
+ASM-V19-303,PLACEMENT,Diagnostic Placement & Adaptive Learning,CEFR Difficulty Benchmark Tester,60 FPS / <50ms,Max,Multi-Subject & UI
+ASM-V19-304,SYNTAX,Explain My Answer Syntax Parser,Auto-Generated Story Script Writer,60 FPS / <50ms,Free,Speaking & Listening
+ASM-V19-305,PRACTICE,Practice Hub & SM-2 Spaced Repetition,Community Lesson & Flashcard Creator,60 FPS / <50ms,Plus,Grammar & Syntax
+ASM-V19-306,MULTIMODAL,Multimodal AR Camera Scanner,Custom Quest & Challenge Designer,60 FPS / <50ms,Max,Vocabulary & Recall
+ASM-V19-307,ROLEPLAY,Procedural Generative AI Roleplay,Shareable Lesson Links & QR Codes,60 FPS / <50ms,Free,Multi-Subject & UI
+ASM-V19-308,GAMIFICATION,"Leagues, Quests & Tournament Engine",Creator XP Royalty & Reward System,60 FPS / <50ms,Plus,Speaking & Listening
+ASM-V19-309,MULTISUBJECT,"Math, Music, Chess & DET Specialists",Moderation Queue for User-Created Content,60 FPS / <50ms,Max,Grammar & Syntax
+ASM-V19-310,UI_UX_DESIGN,Ultra-Performance UI/UX Design System,Upvote & Rating Engine for Custom Lessons,60 FPS / <50ms,Free,Vocabulary & Recall
+ASM-V19-311,OFFLINE_CACHE,Offline-First SQLite Caching & Sync,Custom Vocabulary List Importer (CSV/JSON),60 FPS / <50ms,Plus,Multi-Subject & UI
+ASM-V19-312,SOCIAL_COMMUNITY,"Friends, Guilds & Social Feed",Community Translation Correction Submissions,60 FPS / <50ms,Max,Speaking & Listening
+ASM-V19-313,ACCESSIBILITY,WCAG 2.1 AA & Adaptive Haptics,Interactive Story Scenario Editor,60 FPS / <50ms,Free,Grammar & Syntax
+ASM-V19-314,SECURITY_PRIVACY,Zero-Trust Encryption & COPPA Safety,Creator Analytics & Usage Dashboard,60 FPS / <50ms,Plus,Vocabulary & Recall
+ASM-V19-315,ANALYTICS_BI,Predictive Learning Analytics & Heatmaps,Unified Multi-Subject Navigation Hub,60 FPS / <50ms,Max,Multi-Subject & UI
+ASM-V19-316,ENTERPRISE_SCHOOLS,Duolingo for Schools & Corporate LMS,Live Global Study Map Visualization,60 FPS / <50ms,Free,Speaking & Listening
+ASM-V19-317,AUDIO_MUSIC_ENGINE,Spatial Audio & Synthesizer Engine,Instant Voice Translation Dictation Tool,60 FPS / <50ms,Plus,Grammar & Syntax
+ASM-V19-318,NOTIFICATIONS_CRON,Smart Push Notifications & Nudges,Interactive Dictionary with Root Words,60 FPS / <50ms,Max,Vocabulary & Recall
+ASM-V19-319,CONTENT_PIPELINE,Automated CEFR Curriculum Generator,Bilingual Sentence Alignment View,60 FPS / <50ms,Free,Multi-Subject & UI
+ASM-V19-320,CREATOR_STUDIO,Community Lesson & Quest Builder,Daily Word-of-the-Day Widget,60 FPS / <50ms,Plus,Speaking & Listening
+ASM-V19-321,AI_VOICE,WebRTC Full-Duplex AI Voice Call Engine,Interactive Pronunciation Mouth 3D Model,<180ms,Max,Grammar & Syntax
+ASM-V19-322,PHONEMICS,Acoustic Phoneme & Formant Analyzer,Real-Time Grammar Checker for Essays,<190ms,Free,Vocabulary & Recall
+ASM-V19-323,PLACEMENT,Diagnostic Placement & Adaptive Learning,Speech Speed Slider Control (0.25x-2.0x),60 FPS / <50ms,Plus,Multi-Subject & UI
+ASM-V19-324,SYNTAX,Explain My Answer Syntax Parser,Audiobook & Radio Listening Sessions,60 FPS / <50ms,Max,Speaking & Listening
+ASM-V19-325,PRACTICE,Practice Hub & SM-2 Spaced Repetition,Podcasts with Synchronized Scrolling Transcripts,60 FPS / <50ms,Free,Grammar & Syntax
+ASM-V19-326,MULTIMODAL,Multimodal AR Camera Scanner,Live Expert Tutor Video Webinars,60 FPS / <50ms,Plus,Vocabulary & Recall
+ASM-V19-327,ROLEPLAY,Procedural Generative AI Roleplay,1-on-1 Virtual AI Tutor Matching,60 FPS / <50ms,Max,Multi-Subject & UI
+ASM-V19-328,GAMIFICATION,"Leagues, Quests & Tournament Engine",Peer-to-Peer Speaking Practice Rooms,60 FPS / <50ms,Free,Speaking & Listening
+ASM-V19-329,MULTISUBJECT,"Math, Music, Chess & DET Specialists",Daily Challenge Roulette Wheel,60 FPS / <50ms,Plus,Grammar & Syntax
+ASM-V19-330,UI_UX_DESIGN,Ultra-Performance UI/UX Design System,Mystery Loot Box Reward System,60 FPS / <50ms,Max,Vocabulary & Recall
+ASM-V19-331,OFFLINE_CACHE,Offline-First SQLite Caching & Sync,Gems-to-Real-World Charity Donation Option,60 FPS / <50ms,Free,Multi-Subject & UI
+ASM-V19-332,SOCIAL_COMMUNITY,"Friends, Guilds & Social Feed",Virtual Store Character Skins & Themes,60 FPS / <50ms,Plus,Speaking & Listening
+ASM-V19-333,ACCESSIBILITY,WCAG 2.1 AA & Adaptive Haptics,Special Seasonal Event Game Modes,60 FPS / <50ms,Max,Grammar & Syntax
+ASM-V19-334,SECURITY_PRIVACY,Zero-Trust Encryption & COPPA Safety,Holiday Themed App Icons & Sounds,60 FPS / <50ms,Free,Vocabulary & Recall
+ASM-V19-335,ANALYTICS_BI,Predictive Learning Analytics & Heatmaps,Interactive Grammar Rule Cheat Sheets,60 FPS / <50ms,Plus,Multi-Subject & UI
+ASM-V19-336,ENTERPRISE_SCHOOLS,Duolingo for Schools & Corporate LMS,Phrasebook for Essential Travel Phrases,60 FPS / <50ms,Max,Speaking & Listening
+ASM-V19-337,AUDIO_MUSIC_ENGINE,Spatial Audio & Synthesizer Engine,Emergency Offline Survival Kit Lessons,60 FPS / <50ms,Free,Grammar & Syntax
+ASM-V19-338,NOTIFICATIONS_CRON,Smart Push Notifications & Nudges,Downloadable Unit Audio Bundles,60 FPS / <50ms,Plus,Vocabulary & Recall
+ASM-V19-339,CONTENT_PIPELINE,Automated CEFR Curriculum Generator,Smart Battery Saver Mode,60 FPS / <50ms,Max,Multi-Subject & UI
+ASM-V19-340,CREATOR_STUDIO,Community Lesson & Quest Builder,Low Data Mode Network Compression,60 FPS / <50ms,Free,Speaking & Listening
+ASM-V19-341,AI_VOICE,WebRTC Full-Duplex AI Voice Call Engine,Cross-Device Progress Sync Engine,<230ms,Plus,Grammar & Syntax
+ASM-V19-342,PHONEMICS,Acoustic Phoneme & Formant Analyzer,Web App Progressive Web App (PWA) Support,<240ms,Max,Vocabulary & Recall
+ASM-V19-343,PLACEMENT,Diagnostic Placement & Adaptive Learning,Desktop App Electron Wrapper Build,60 FPS / <50ms,Free,Multi-Subject & UI
+ASM-V19-344,SYNTAX,Explain My Answer Syntax Parser,Apple Watch & Wear OS Companion Apps,60 FPS / <50ms,Plus,Speaking & Listening
+ASM-V19-345,PRACTICE,Practice Hub & SM-2 Spaced Repetition,Widget Support for iOS & Android Home Screens,60 FPS / <50ms,Max,Grammar & Syntax
+ASM-V19-346,MULTIMODAL,Multimodal AR Camera Scanner,Siri & Google Assistant Voice Shortcuts,60 FPS / <50ms,Free,Vocabulary & Recall
+ASM-V19-347,ROLEPLAY,Procedural Generative AI Roleplay,Keyboard Shortcuts Navigation for Web,60 FPS / <50ms,Plus,Multi-Subject & UI
+ASM-V19-348,GAMIFICATION,"Leagues, Quests & Tournament Engine",Multi-Window iPad Split View Support,60 FPS / <50ms,Max,Speaking & Listening
+ASM-V19-349,MULTISUBJECT,"Math, Music, Chess & DET Specialists",Foldable Phone Screen Layout Optimization,60 FPS / <50ms,Free,Grammar & Syntax
+ASM-V19-350,UI_UX_DESIGN,Ultra-Performance UI/UX Design System,TV App Android TV / Apple TV Cast Mode,60 FPS / <50ms,Plus,Vocabulary & Recall
+ASM-V19-351,OFFLINE_CACHE,Offline-First SQLite Caching & Sync,CarPlay & Android Auto Hands-Free Audio,60 FPS / <50ms,Max,Multi-Subject & UI
+ASM-V19-352,SOCIAL_COMMUNITY,"Friends, Guilds & Social Feed",VR / AR Immersive Language World Blueprint,60 FPS / <50ms,Free,Speaking & Listening
+ASM-V19-353,ACCESSIBILITY,WCAG 2.1 AA & Adaptive Haptics,Neural Translation Engine Fallback,60 FPS / <50ms,Plus,Grammar & Syntax
+ASM-V19-354,SECURITY_PRIVACY,Zero-Trust Encryption & COPPA Safety,Continuous AI Integration Pipeline,60 FPS / <50ms,Max,Vocabulary & Recall
+ASM-V19-355,ANALYTICS_BI,Predictive Learning Analytics & Heatmaps,Automated Zero-Bug Release Testing Suite,60 FPS / <50ms,Free,Multi-Subject & UI
+ASM-V19-356,ENTERPRISE_SCHOOLS,Duolingo for Schools & Corporate LMS,100% Production-Ready Codebase v19,60 FPS / <50ms,Plus,Speaking & Listening

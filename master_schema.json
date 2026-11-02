@@ -1,0 +1,288 @@
+{
+  "app_name": "Asmaron Language & Multi-Subject Platform",
+  "version": "19.0.0-PROD-400PLUS",
+  "build_number": 40019,
+  "release_name": "Supreme 400+ Features, UI & AI Ecosystem",
+  "branding": {
+    "primary_color": "#1E3A8A",
+    "secondary_color": "#06B6D4",
+    "accent_color": "#10B981",
+    "highlight_color": "#F59E0B",
+    "dark_bg": "#0F172A",
+    "light_bg": "#F8FAFC",
+    "logo_symbol": "Global Sphere with Mortarboard, Open Book, Multilingual Speech Bubbles ('A', '\u0905', '\u6587'), and Play Emblem"
+  },
+  "performance_specifications": {
+    "webrtc_latency_ms": 150,
+    "whisper_asr_model": "Whisper-v3-Turbo-Quantized",
+    "llm_parser": "GPT-4o-Mini-LangEngine",
+    "ui_frame_rate": "60 FPS Constant",
+    "offline_database": "SQLite v3.45 with WAL Indexing",
+    "ram_consumption_mb": 115
+  },
+  "total_featured_systems": 356,
+  "feature_categories": [
+    [
+      "AI_VOICE",
+      "WebRTC Full-Duplex AI Voice Call Engine"
+    ],
+    [
+      "PHONEMICS",
+      "Acoustic Phoneme & Formant Analyzer"
+    ],
+    [
+      "PLACEMENT",
+      "Diagnostic Placement & Adaptive Learning"
+    ],
+    [
+      "SYNTAX",
+      "Explain My Answer Syntax Parser"
+    ],
+    [
+      "PRACTICE",
+      "Practice Hub & SM-2 Spaced Repetition"
+    ],
+    [
+      "MULTIMODAL",
+      "Multimodal AR Camera Scanner"
+    ],
+    [
+      "ROLEPLAY",
+      "Procedural Generative AI Roleplay"
+    ],
+    [
+      "GAMIFICATION",
+      "Leagues, Quests & Tournament Engine"
+    ],
+    [
+      "MULTISUBJECT",
+      "Math, Music, Chess & DET Specialists"
+    ],
+    [
+      "UI_UX_DESIGN",
+      "Ultra-Performance UI/UX Design System"
+    ],
+    [
+      "OFFLINE_CACHE",
+      "Offline-First SQLite Caching & Sync"
+    ],
+    [
+      "SOCIAL_COMMUNITY",
+      "Friends, Guilds & Social Feed"
+    ],
+    [
+      "ACCESSIBILITY",
+      "WCAG 2.1 AA & Adaptive Haptics"
+    ],
+    [
+      "SECURITY_PRIVACY",
+      "Zero-Trust Encryption & COPPA Safety"
+    ],
+    [
+      "ANALYTICS_BI",
+      "Predictive Learning Analytics & Heatmaps"
+    ],
+    [
+      "ENTERPRISE_SCHOOLS",
+      "Duolingo for Schools & Corporate LMS"
+    ],
+    [
+      "AUDIO_MUSIC_ENGINE",
+      "Spatial Audio & Synthesizer Engine"
+    ],
+    [
+      "NOTIFICATIONS_CRON",
+      "Smart Push Notifications & Nudges"
+    ],
+    [
+      "CONTENT_PIPELINE",
+      "Automated CEFR Curriculum Generator"
+    ],
+    [
+      "CREATOR_STUDIO",
+      "Community Lesson & Quest Builder"
+    ]
+  ],
+  "features_sample": [
+    {
+      "Feature_ID": "ASM-V19-001",
+      "Category_Code": "AI_VOICE",
+      "Category_Name": "WebRTC Full-Duplex AI Voice Call Engine",
+      "Feature_Description": "Sub-150ms WebRTC Speech-to-Speech Streaming",
+      "Performance_Metric": "<130ms",
+      "Tier_Access": "Free",
+      "Target_Skill": "Grammar & Syntax"
+    },
+    {
+      "Feature_ID": "ASM-V19-002",
+      "Category_Code": "PHONEMICS",
+      "Category_Name": "Acoustic Phoneme & Formant Analyzer",
+      "Feature_Description": "Dynamic Barge-In Interruption Support",
+      "Performance_Metric": "<140ms",
+      "Tier_Access": "Plus",
+      "Target_Skill": "Vocabulary & Recall"
+    },
+    {
+      "Feature_ID": "ASM-V19-003",
+      "Category_Code": "PLACEMENT",
+      "Category_Name": "Diagnostic Placement & Adaptive Learning",
+      "Feature_Description": "Acoustic Echo Cancellation",
+      "Performance_Metric": "60 FPS / <50ms",
+      "Tier_Access": "Max",
+      "Target_Skill": "Multi-Subject & UI"
+    },
+    {
+      "Feature_ID": "ASM-V19-004",
+      "Category_Code": "SYNTAX",
+      "Category_Name": "Explain My Answer Syntax Parser",
+      "Feature_Description": "Voice Activity Detection with Hesitation Pause Tolerance",
+      "Performance_Metric": "60 FPS / <50ms",
+      "Tier_Access": "Free",
+      "Target_Skill": "Speaking & Listening"
+    },
+    {
+      "Feature_ID": "ASM-V19-005",
+      "Category_Code": "PRACTICE",
+      "Category_Name": "Practice Hub & SM-2 Spaced Repetition",
+      "Feature_Description": "Emotion-Aware Voice Synthesis",
+      "Performance_Metric": "60 FPS / <50ms",
+      "Tier_Access": "Plus",
+      "Target_Skill": "Grammar & Syntax"
+    },
+    {
+      "Feature_ID": "ASM-V19-006",
+      "Category_Code": "MULTIMODAL",
+      "Category_Name": "Multimodal AR Camera Scanner",
+      "Feature_Description": "Real-Time Pitch Matching",
+      "Performance_Metric": "60 FPS / <50ms",
+      "Tier_Access": "Max",
+      "Target_Skill": "Vocabulary & Recall"
+    },
+    {
+      "Feature_ID": "ASM-V19-007",
+      "Category_Code": "ROLEPLAY",
+      "Category_Name": "Procedural Generative AI Roleplay",
+      "Feature_Description": "Multi-Session Conversational Memory",
+      "Performance_Metric": "60 FPS / <50ms",
+      "Tier_Access": "Free",
+      "Target_Skill": "Multi-Subject & UI"
+    },
+    {
+      "Feature_ID": "ASM-V19-008",
+      "Category_Code": "GAMIFICATION",
+      "Category_Name": "Leagues, Quests & Tournament Engine",
+      "Feature_Description": "Soft Conversational Redirection",
+      "Performance_Metric": "60 FPS / <50ms",
+      "Tier_Access": "Plus",
+      "Target_Skill": "Speaking & Listening"
+    },
+    {
+      "Feature_ID": "ASM-V19-009",
+      "Category_Code": "MULTISUBJECT",
+      "Category_Name": "Math, Music, Chess & DET Specialists",
+      "Feature_Description": "Speech Rate Auto-Deceleration",
+      "Performance_Metric": "60 FPS / <50ms",
+      "Tier_Access": "Max",
+      "Target_Skill": "Grammar & Syntax"
+    },
+    {
+      "Feature_ID": "ASM-V19-010",
+      "Category_Code": "UI_UX_DESIGN",
+      "Category_Name": "Ultra-Performance UI/UX Design System",
+      "Feature_Description": "Multi-Accent Switching (US, UK, AU, ES, FR, DE)",
+      "Performance_Metric": "60 FPS / <50ms",
+      "Tier_Access": "Free",
+      "Target_Skill": "Vocabulary & Recall"
+    },
+    {
+      "Feature_ID": "ASM-V19-011",
+      "Category_Code": "OFFLINE_CACHE",
+      "Category_Name": "Offline-First SQLite Caching & Sync",
+      "Feature_Description": "Syllable-Level Pause Detection",
+      "Performance_Metric": "60 FPS / <50ms",
+      "Tier_Access": "Plus",
+      "Target_Skill": "Multi-Subject & UI"
+    },
+    {
+      "Feature_ID": "ASM-V19-012",
+      "Category_Code": "SOCIAL_COMMUNITY",
+      "Category_Name": "Friends, Guilds & Social Feed",
+      "Feature_Description": "Dynamic Vocabulary Complexity Scaling",
+      "Performance_Metric": "60 FPS / <50ms",
+      "Tier_Access": "Max",
+      "Target_Skill": "Speaking & Listening"
+    },
+    {
+      "Feature_ID": "ASM-V19-013",
+      "Category_Code": "ACCESSIBILITY",
+      "Category_Name": "WCAG 2.1 AA & Adaptive Haptics",
+      "Feature_Description": "Neural Filler Word Filter",
+      "Performance_Metric": "60 FPS / <50ms",
+      "Tier_Access": "Free",
+      "Target_Skill": "Grammar & Syntax"
+    },
+    {
+      "Feature_ID": "ASM-V19-014",
+      "Category_Code": "SECURITY_PRIVACY",
+      "Category_Name": "Zero-Trust Encryption & COPPA Safety",
+      "Feature_Description": "Real-Time IPA Phonetic Transcription Overlay",
+      "Performance_Metric": "60 FPS / <50ms",
+      "Tier_Access": "Plus",
+      "Target_Skill": "Vocabulary & Recall"
+    },
+    {
+      "Feature_ID": "ASM-V19-015",
+      "Category_Code": "ANALYTICS_BI",
+      "Category_Name": "Predictive Learning Analytics & Heatmaps",
+      "Feature_Description": "Personal Interest Topic Steering",
+      "Performance_Metric": "60 FPS / <50ms",
+      "Tier_Access": "Max",
+      "Target_Skill": "Multi-Subject & UI"
+    },
+    {
+      "Feature_ID": "ASM-V19-016",
+      "Category_Code": "ENTERPRISE_SCHOOLS",
+      "Category_Name": "Duolingo for Schools & Corporate LMS",
+      "Feature_Description": "Context Vector Caching for Zero Latency",
+      "Performance_Metric": "60 FPS / <50ms",
+      "Tier_Access": "Free",
+      "Target_Skill": "Speaking & Listening"
+    },
+    {
+      "Feature_ID": "ASM-V19-017",
+      "Category_Code": "AUDIO_MUSIC_ENGINE",
+      "Category_Name": "Spatial Audio & Synthesizer Engine",
+      "Feature_Description": "Automated Grammar Confidence Scoring",
+      "Performance_Metric": "60 FPS / <50ms",
+      "Tier_Access": "Plus",
+      "Target_Skill": "Grammar & Syntax"
+    },
+    {
+      "Feature_ID": "ASM-V19-018",
+      "Category_Code": "NOTIFICATIONS_CRON",
+      "Category_Name": "Smart Push Notifications & Nudges",
+      "Feature_Description": "Instant Translation Fallback Option",
+      "Performance_Metric": "60 FPS / <50ms",
+      "Tier_Access": "Max",
+      "Target_Skill": "Vocabulary & Recall"
+    },
+    {
+      "Feature_ID": "ASM-V19-019",
+      "Category_Code": "CONTENT_PIPELINE",
+      "Category_Name": "Automated CEFR Curriculum Generator",
+      "Feature_Description": "Dynamic Roleplay Persona Morphing",
+      "Performance_Metric": "60 FPS / <50ms",
+      "Tier_Access": "Free",
+      "Target_Skill": "Multi-Subject & UI"
+    },
+    {
+      "Feature_ID": "ASM-V19-020",
+      "Category_Code": "CREATOR_STUDIO",
+      "Category_Name": "Community Lesson & Quest Builder",
+      "Feature_Description": "Ambient Background Soundscapes (Cafe, Airport)",
+      "Performance_Metric": "60 FPS / <50ms",
+      "Tier_Access": "Plus",
+      "Target_Skill": "Speaking & Listening"
+    }
+  ]
+}
